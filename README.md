@@ -26,6 +26,7 @@ Crie um programa que calcula a média escolar de um aluno. Use as seguintes nota
 O programa deve calcular a média e exibir todas as notas e o resultado final, arredondando para duas casas decimais.
 
 4- [Calculadora de Consumo de Combustível](https://github.com/Miguel03706/atividade-nuvem-2/blob/main/calculadora_combustivel.py)
+
 Desenvolva um programa que calcula o consumo médio de combustível de um veículo. Use os seguintes dados:
 
 * Distância percorrida: 300 km
